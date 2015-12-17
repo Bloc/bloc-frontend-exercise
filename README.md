@@ -14,8 +14,8 @@ Set aside two consecutive hours to work on this exercise independently. You shou
 When your mentor logs on to Bloc, they see a dashboard of notifications related to their students. When mentors click on a message notification, they are taken to that message thread page. Your challenge is to create a prototype of the message notifications of the mentor dashboard using HTML, CSS, JavaScript, and jQuery.
 
 A designer has given you the following mock and visual design spec:
-![Mockup of Message Notifications](notifications_mockup.png)
-![Comp of Message Notifications](notifications_comp.png)
+![Mockup of Message Notifications](prompt/notifications_mock.png)
+![Comp of Message Notifications](prompt/notifications_comp.png)
 
 **Your task is to:**
 
@@ -29,7 +29,7 @@ A designer has given you the following mock and visual design spec:
 
 **3. Stretch goals (only do these if you have extra time!):**
 - If there are no notifications, the empty state should look like this:
- ![Empty Notifications State](notifications_empty.png)
+ ![Empty Notifications State](prompt/notifications_empty.png)
 - Use JS to dynamically load the content provided in the `data` variable.
 - Add transition animations to the loading and the dismissal of notifications.
 - Propose a mobile design and make the UI fully adaptive.
