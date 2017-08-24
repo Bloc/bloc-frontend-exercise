@@ -10,7 +10,7 @@ Everything you need should be in this README or in this repository. You are enco
 
 Set aside two consecutive hours to work on this exercise independently. You should not ask your mentor for help, but this is open-book, so you are encouraged to use the Bloc curriculum or to google.
 
-###The exercise
+### The exercise
 When your mentor logs on to Bloc, they see a dashboard of notifications related to their students. When mentors click on a message notification, they are taken to that message thread page. Your challenge is to create a prototype of the message notifications on the mentor dashboard using HTML, CSS, JavaScript, and jQuery.
 
 A designer has given you the following mock and visual design spec:
