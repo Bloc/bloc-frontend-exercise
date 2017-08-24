@@ -1,11 +1,11 @@
-#Bloc Design Track Frontend Exercise
+# Bloc Design Track Frontend Exercise
 
-###Purpose
+### Purpose
 The purpose of this exercise is to understand if you would be comfortable prototyping your own interaction design work (except the design has already been done in this case). We are evaluating for potential rather than correctness of implementation, but we expect evidence of good development practices.
 
 This exercise is designed to be completed after Frontend Foundations. Depending on where you are in the Bloc program and how much you've practiced, you may not be able to complete every task within a reasonable amount of time. **That is okay.** This exercise is meant to be challenging. Do your best and we encourage you to look up information and resources.
 
-###A few notes
+### A few notes
 Everything you need should be in this README or in this repository. You are encouraged to propose & implement your own solutions for unclear or open-ended feature requirements.
 
 Set aside two consecutive hours to work on this exercise independently. You should not ask your mentor for help, but this is open-book, so you are encouraged to use the Bloc curriculum or to google.
@@ -37,11 +37,11 @@ A designer has given you the following mock and visual design spec:
 
 The above is a suggestion of steps to follow, but you are not obligated to complete them in order. 
 
-###Submitting your exercise
+### Submitting your exercise
 Clone this repository. It includes some useful starter files and assets.
 
 Attempt to implement as much of the exercise as possible, but restrict yourself to two hours. After two hours, stop and write a brief reflection on your work. Send your interviewer your reflection and a link to your repository within 1 week of receiving the exercise.
 
 We will get back to you with feedback ASAP. You are encouraged to review your submission with your mentor _after_ you submit and to continue working on the stretch goals for more practice.
 
-If you have questions or feedback about this exercise, email sanny@bloc.io. Happy hacking.
+If you have questions or feedback about this exercise, let your mentor know or post on Slack. Happy hacking.
